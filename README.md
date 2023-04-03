@@ -204,3 +204,12 @@ AUTH_USER_MODEL = 'users.CustomUser'
 
 # References
 - [Django Tutorial](https://docs.djangoproject.com/en/1.11/intro/tutorial01/)
+
+# TODO
+- [ ] Authentication
+- [ ] Sessions
+- [ ] Messages
+- [ ] Signals
+- [ ] [Components](https://pypi.org/project/django-components/)
+- [ ] [Django REST framework](https://www.django-rest-framework.org/)
+- [ ] Add more todo items
